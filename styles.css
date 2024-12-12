@@ -41,6 +41,11 @@ body {
     padding-top: 30px;
 }
 
+.wrapper .card .judul a {
+    text-decoration: none;
+    color : white;
+}
+
 .wrapper .card:hover {
     transform: scale(1.1); /* Efek hover tambahan */
 }
